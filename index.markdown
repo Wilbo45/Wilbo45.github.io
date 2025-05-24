@@ -5,8 +5,13 @@
 layout: home
 ---
 
-Welcome to my site!  
-Here you'll find updates, blog posts, and more.
+Welcome to the **National Integrated General Electronic Ledger** technical blog.
 
-- Check out the [About page](/about/)
-- Read the latest [blog post](/jekyll/update/2024/09/16/welcome-to-jekyll.html)
+Here you'll find project updates, technical articles, and insights related to our ongoing work.
+
+**Explore:**
+- [About the Project](/about/)
+- [Latest Blog Post](/jekyll/update/2024/09/16/welcome-to-jekyll.html)
+- [Subscribe via RSS](/feed.xml)
+
+Stay tuned for regular updates and in-depth discussions on our development process and technology choices.
