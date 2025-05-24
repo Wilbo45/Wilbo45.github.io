@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+Welcome to my site!  
+Here you'll find updates, blog posts, and more.
+
+- Check out the [About page](/about/)
+- Read the latest [blog post](/jekyll/update/2024/09/16/welcome-to-jekyll.html)
