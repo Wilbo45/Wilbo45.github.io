@@ -18,7 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Wilbo45 ongoing blurb...
+# include:
+ # - assets/css/custom.css
+
+
+title: Healthcare Technology and Data.
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   National Integrated General Electronic Ledger
@@ -27,8 +31,16 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
-# Build settings
-theme: minima
+# Build settings for theme
+theme: just-the-docs
+just_the_docs:
+  collapse_navigation: true
+  search_enabled: true
+  search_placeholder: "Search this documentation..."
+  custom_css:
+    - assets/css/custom.css
+
+
 plugins:
   - jekyll-feed
 

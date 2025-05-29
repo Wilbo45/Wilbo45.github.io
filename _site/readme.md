@@ -10,3 +10,10 @@ https://docs.github.com/en/pages
 
 https://jekyllrb.com/docs/installation/macos/
 
+## Jekyll theme
+
+https://just-the-docs.github.io/just-the-docs-template/
+
+https://just-the-docs.github.io/just-the-docs/
+
+
