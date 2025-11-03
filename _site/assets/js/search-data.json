@@ -36,24 +36,88 @@
   },"5": {
     "doc": "Home",
     "title": "Home",
-    "content": "Welcome to the **National Integrated General Electronic Ledger** technical blog. Here you'll find project updates, technical articles, and insights related to our ongoing work. **Posts:** . {% for post in site.posts %} | {{ post.title }} {{ post.date | date: \"%Y-%m-%d\" }} | {% endfor %} . Stay tuned for regular updates and in-depth discussions on our development process and technology choices. ",
+    "content": "Welcome to the National Integrated General Electronic Ledger technical blog. Here you’ll find project updates, technical articles, and insights related to our ongoing work. Posts: . | The Idea! 2025-05-25 | Welcome to Jekyll! 2024-09-16 | . Stay tuned for regular updates and in-depth discussions on our development process and technology choices. ",
     "url": "/",
     
     "relUrl": "/"
   },"6": {
+<<<<<<< HEAD
+=======
+    "doc": "AI Research",
+    "title": "AI in Healthcare Research",
+    "content": "Our artificial intelligence research focuses on: . ",
+    "url": "/pages/research/ai/#ai-in-healthcare-research",
+    
+    "relUrl": "/pages/research/ai/#ai-in-healthcare-research"
+  },"7": {
+>>>>>>> 4f0a4b343db78f12bd66dd33d8d00af42d1c68ef
+    "doc": "AI Research",
+    "title": "Machine Learning Models",
+    "content": ". | Predictive analytics for patient outcomes | Natural Language Processing for medical records | Computer vision for medical imaging | . ",
+    "url": "/pages/research/ai/#machine-learning-models",
+    
+    "relUrl": "/pages/research/ai/#machine-learning-models"
+  },"8": {
+    "doc": "AI Research",
+    "title": "Current Projects",
+    "content": ". | Automated diagnosis assistance | Drug discovery optimization | Patient risk stratification | . ",
+    "url": "/pages/research/ai/#current-projects",
+    
+    "relUrl": "/pages/research/ai/#current-projects"
+  },"9": {
+    "doc": "AI Research",
+    "title": "Publications",
+    "content": "Coming soon… . ",
+    "url": "/pages/research/ai/#publications",
+    
+    "relUrl": "/pages/research/ai/#publications"
+  },"10": {
     "doc": "AI Research",
     "title": "AI Research",
-    "content": "# AI in Healthcare Research Our artificial intelligence research focuses on: ## Machine Learning Models - Predictive analytics for patient outcomes - Natural Language Processing for medical records - Computer vision for medical imaging ## Current Projects - Automated diagnosis assistance - Drug discovery optimization - Patient risk stratification ## Publications Coming soon... ",
+    "content": " ",
     "url": "/pages/research/ai/",
     
     "relUrl": "/pages/research/ai/"
+<<<<<<< HEAD
   },"7": {
+=======
+  },"11": {
+    "doc": "Clinical Research",
+    "title": "Clinical Decision Support Research",
+    "content": " ",
+    "url": "/pages/research/clinical/#clinical-decision-support-research",
+    
+    "relUrl": "/pages/research/clinical/#clinical-decision-support-research"
+  },"12": {
+    "doc": "Clinical Research",
+    "title": "Overview",
+    "content": "Research focused on supporting clinical decision-making through technology. ",
+    "url": "/pages/research/clinical/#overview",
+    
+    "relUrl": "/pages/research/clinical/#overview"
+  },"13": {
+    "doc": "Clinical Research",
+    "title": "Key Areas:",
+    "content": ". | Evidence-based medicine tools | Clinical guideline implementation | Real-time decision support systems | Quality improvement metrics | . ",
+    "url": "/pages/research/clinical/#key-areas",
+    
+    "relUrl": "/pages/research/clinical/#key-areas"
+  },"14": {
+    "doc": "Clinical Research",
+    "title": "Collaborations",
+    "content": ". | Local healthcare systems | Academic medical centers | Technology partners | . ",
+    "url": "/pages/research/clinical/#collaborations",
+    
+    "relUrl": "/pages/research/clinical/#collaborations"
+  },"15": {
+>>>>>>> 4f0a4b343db78f12bd66dd33d8d00af42d1c68ef
     "doc": "Clinical Research",
     "title": "Clinical Research",
-    "content": "# Clinical Decision Support Research ## Overview Research focused on supporting clinical decision-making through technology. ## Key Areas: - Evidence-based medicine tools - Clinical guideline implementation - Real-time decision support systems - Quality improvement metrics ## Collaborations - Local healthcare systems - Academic medical centers - Technology partners ",
+    "content": " ",
     "url": "/pages/research/clinical/",
     
     "relUrl": "/pages/research/clinical/"
+<<<<<<< HEAD
   },"8": {
     "doc": "Research",
     "title": "Research",
@@ -61,5 +125,7 @@
     "url": "/pages/research/",
     
     "relUrl": "/pages/research/"
+=======
+>>>>>>> 4f0a4b343db78f12bd66dd33d8d00af42d1c68ef
   }
 }
