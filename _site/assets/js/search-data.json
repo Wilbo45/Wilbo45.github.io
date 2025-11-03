@@ -1,70 +1,63 @@
 {"0": {
-    "doc": "About",
-    "title": "About",
-    "content": "# About Us ## Mission To advance healthcare through innovative technology solutions and data-driven insights. ## Our Team Experienced professionals in healthcare technology, data science, and clinical informatics. ## Vision Creating a future where technology seamlessly supports healthcare professionals in delivering optimal patient care. ## Contact For inquiries about our work or collaboration opportunities, please reach out through our contact channels. ",
-    "url": "/pages/about/",
-    
-    "relUrl": "/pages/about/"
-  },"1": {
     "doc": "api",
     "title": "api",
     "content": "Data subpage content. ",
     "url": "/pages/healthcare/api/",
     
     "relUrl": "/pages/healthcare/api/"
-  },"2": {
+  },"1": {
     "doc": "Consultancy",
     "title": "Consultancy",
     "content": "consultancy main page content. ",
     "url": "/pages/consultancy/",
     
     "relUrl": "/pages/consultancy/"
-  },"3": {
+  },"2": {
     "doc": "data",
     "title": "data",
     "content": "Data subpage content. ",
     "url": "/pages/healthcare/data/",
     
     "relUrl": "/pages/healthcare/data/"
-  },"4": {
+  },"3": {
     "doc": "Engineering",
     "title": "Engineering",
     "content": "Learning main page content. ",
     "url": "/pages/engineering/",
     
     "relUrl": "/pages/engineering/"
-  },"5": {
+  },"4": {
     "doc": "Healthcare",
     "title": "Healthcare",
     "content": "Learning main page content. ",
     "url": "/pages/healthcare/",
     
     "relUrl": "/pages/healthcare/"
-  },"6": {
+  },"5": {
     "doc": "Home",
     "title": "Home",
     "content": "Welcome to the **National Integrated General Electronic Ledger** technical blog. Here you'll find project updates, technical articles, and insights related to our ongoing work. **Posts:** . {% for post in site.posts %} | {{ post.title }} {{ post.date | date: \"%Y-%m-%d\" }} | {% endfor %} . Stay tuned for regular updates and in-depth discussions on our development process and technology choices. ",
     "url": "/",
     
     "relUrl": "/"
-  },"7": {
+  },"6": {
     "doc": "AI Research",
     "title": "AI Research",
     "content": "# AI in Healthcare Research Our artificial intelligence research focuses on: ## Machine Learning Models - Predictive analytics for patient outcomes - Natural Language Processing for medical records - Computer vision for medical imaging ## Current Projects - Automated diagnosis assistance - Drug discovery optimization - Patient risk stratification ## Publications Coming soon... ",
     "url": "/pages/research/ai/",
     
     "relUrl": "/pages/research/ai/"
-  },"8": {
+  },"7": {
     "doc": "Clinical Research",
     "title": "Clinical Research",
     "content": "# Clinical Decision Support Research ## Overview Research focused on supporting clinical decision-making through technology. ## Key Areas: - Evidence-based medicine tools - Clinical guideline implementation - Real-time decision support systems - Quality improvement metrics ## Collaborations - Local healthcare systems - Academic medical centers - Technology partners ",
     "url": "/pages/research/clinical/",
     
     "relUrl": "/pages/research/clinical/"
-  },"9": {
+  },"8": {
     "doc": "Research",
     "title": "Research",
-    "content": "# Research This section covers our research initiatives and findings. ## Research Areas: - Medical Device Innovation - AI in Healthcare - Clinical Decision Support - Healthcare Analytics Stay tuned for detailed research papers and findings. ",
+    "content": "Our research initiatives focus on advancing healthcare technology through innovative approaches. Explore our current research areas: . ",
     "url": "/pages/research/",
     
     "relUrl": "/pages/research/"

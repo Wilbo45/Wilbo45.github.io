@@ -1,20 +1,13 @@
 ---
 layout: page
 title: "Research"
-nav_order: 4
+nav_order: 3
 has_children: true
 permalink: /pages/research/
 ---
 
 # Research
 
-This section covers our research initiatives and findings.
+Our research initiatives focus on advancing healthcare technology through innovative approaches.
 
-## Research Areas:
-- Medical Device Innovation
-- AI in Healthcare  
-- Clinical Decision Support
-- Healthcare Analytics
-
-Stay tuned for detailed research papers and findings.
-
+Explore our current research areas:
